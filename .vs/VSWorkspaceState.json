@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ResumeManager",
+    "\\ResumeManager\\Models",
+    "\\ResumeManager\\Views",
+    "\\ResumeManager\\Views\\Resume"
+  ],
+  "SelectedNode": "\\ResumeManager\\Views\\Resume\\Create.cshtml",
+  "PreviewInSolutionExplorer": false
+}
